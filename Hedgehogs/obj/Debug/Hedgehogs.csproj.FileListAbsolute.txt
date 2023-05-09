@@ -1,0 +1,8 @@
+E:\VisualStudioProjects\Hedgehogs\bin\Debug\Hedgehogs.exe.config
+E:\VisualStudioProjects\Hedgehogs\bin\Debug\Hedgehogs.exe
+E:\VisualStudioProjects\Hedgehogs\bin\Debug\Hedgehogs.pdb
+E:\VisualStudioProjects\Hedgehogs\obj\Debug\Hedgehogs.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\Hedgehogs\obj\Debug\Hedgehogs.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudioProjects\Hedgehogs\obj\Debug\Hedgehogs.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\Hedgehogs\obj\Debug\Hedgehogs.exe
+E:\VisualStudioProjects\Hedgehogs\obj\Debug\Hedgehogs.pdb
